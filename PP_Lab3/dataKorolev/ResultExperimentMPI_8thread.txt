@@ -1,0 +1,12 @@
+For matrix size10x10 time -  23 ms
+For matrix size50x50 time -  2 ms
+For matrix size100x100 time -  16 ms
+For matrix size500x500 time -  38 ms
+For matrix size600x600 time -  13 ms
+For matrix size700x700 time -  69 ms
+For matrix size800x800 time -  784 ms
+For matrix size900x900 time -  1813 ms
+For matrix size1000x1000 time -  2036 ms
+For matrix size1200x1200 time -  3577 ms
+For matrix size1400x1400 time -  6227 ms
+For matrix size1800x1800 time -  10521 ms
